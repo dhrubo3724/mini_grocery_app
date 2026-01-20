@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
               SizedBox(height: 20),
 
               Text(
-                'Let\'s order fresh items for ',
+                'Let\'s order fresh items for you ',
                 style: TextStyle(fontSize: 45, fontWeight: FontWeight.w500),
               ),
               SizedBox(height: 20),
